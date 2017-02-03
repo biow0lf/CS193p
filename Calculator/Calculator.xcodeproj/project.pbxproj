@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C508C8081E43CF8A00B58CB5 /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CalculatorBrain.swift; path = Calculator/CalculatorBrain.swift; sourceTree = "<group>"; };
+		C508C8081E43CF8A00B58CB5 /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 		C511C8BD1E1872DC000EED63 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C511C8C01E1872DC000EED63 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C511C8C21E1872DC000EED63 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,6 @@
 		C511C8B41E1872DC000EED63 = {
 			isa = PBXGroup;
 			children = (
-				C508C8081E43CF8A00B58CB5 /* CalculatorBrain.swift */,
 				C511C8BF1E1872DC000EED63 /* Calculator */,
 				C511C8BE1E1872DC000EED63 /* Products */,
 			);
@@ -58,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				C511C8C21E1872DC000EED63 /* ViewController.swift */,
+				C508C8081E43CF8A00B58CB5 /* CalculatorBrain.swift */,
 				C511C8C41E1872DC000EED63 /* Main.storyboard */,
 				C511C8D21E18778C000EED63 /* Supporting Files */,
 			);
